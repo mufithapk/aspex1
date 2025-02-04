@@ -73,6 +73,7 @@
     <Content Include="dropdown.aspx" />
     <Content Include="form.aspx" />
     <Content Include="gridview.aspx" />
+    <Content Include="jjj.aspx" />
     <Content Include="login.aspx" />
     <Content Include="page1.aspx" />
     <Content Include="page10.aspx" />
@@ -128,6 +129,13 @@
     </Compile>
     <Compile Include="gridview.aspx.designer.cs">
       <DependentUpon>gridview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jjj.aspx.cs">
+      <DependentUpon>jjj.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="jjj.aspx.designer.cs">
+      <DependentUpon>jjj.aspx</DependentUpon>
     </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
